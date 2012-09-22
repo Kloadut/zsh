@@ -1,0 +1,4 @@
+zsh
+===
+
+Zsh config
