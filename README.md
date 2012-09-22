@@ -3,7 +3,9 @@ ZSH Config
 
 Personnal ZSH Config based on Oh-My-ZSH
 
-## Install
+### Install
+
+Dependencies: git, curl
 
 ```bash
 

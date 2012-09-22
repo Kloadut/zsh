@@ -19,7 +19,7 @@ for i in $HOME/.zshrc $HOME/.oh-my-zsh $endpath; do [ -e $i ] && mv $i $i.$today
 echo "installing oh-my-zsh"
 curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
 
-echo "cloning kload-vim\n"
+echo "cloning kload-zsh\n"
 git clone --recursive http://github.com/Kloadut/zsh.git $endpath
 rm $HOME/.zshrc
 ln -s $endpath/.zshrc $HOME/.zshrc
