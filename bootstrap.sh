@@ -24,4 +24,6 @@ git clone --recursive http://github.com/Kloadut/zsh.git $endpath
 rm $HOME/.zshrc
 ln -s $endpath/.zshrc $HOME/.zshrc
 
+chsh -s /bin/zsh
+
 echo "Done\n"
