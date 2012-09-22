@@ -1,4 +1,4 @@
-zsh
-===
+ZSH Config
+=========
 
-Zsh config
+Personnal ZSH Config based on Oh-My-ZSH
